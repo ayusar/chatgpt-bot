@@ -12,7 +12,7 @@ from duckduckgo_search import DDGS
 # Load environment variables
 # ─────────────────────────────────────────────
 load_dotenv()
-OWNER_ID = os.getenv("OWNER_ID")  # string; compare as str
+OWNER_ID = os.getenv("ADMIN")  # string; compare as str
 
 # ─────────────────────────────────────────────
 # Global Settings
