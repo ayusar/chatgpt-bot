@@ -34,3 +34,4 @@ urllib3==2.2.3
 # --- AI + Search ---
 g4f==0.3.2.9
 duckduckgo-search==6.3.3
+curl_cffi==0.6.2
